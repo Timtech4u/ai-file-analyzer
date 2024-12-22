@@ -23,7 +23,7 @@ An AI-powered file analysis tool that converts various document formats into cle
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/timtech4u/file-analyzer.git
+git clone https://github.com/timtech4u/ai-file-analyzer.git
 cd file-analyzer
 ```
 
